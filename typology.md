@@ -32,41 +32,44 @@ Finally, this review is summarized in a *typology of model interfaces*.
 ## Criteria of interface comparison
 Comparing existing interfaces is structured by the following design properties:
 
-1. Generates data for improvement?
-2. Actively addressing user?
-3. Required skillful user?
-4. Detailed insight?
-5. Simplest IT-infrastructure?
-6. What are working examples?
+1. What are working examples?
+2. Generates data for improvement?
+3. Actively addressing user?
+4. Required skillful user?
+5. Detailed insight?
+6. Simplest IT-infrastructure?
 
 ## Review of interfaces with predictive models
 
 In the following, types of model interfaces are presented.
 For each type, the questions above are addressed.
 
-**Chatbots.**
-(e.g. Skype chatbots)
+**Interactive Chatbots.**
+(e.g. chatbots for customer support)
 
 **Dashboards.**
 (e.g. 'Shiny App' with R)
 
+**Content filtered by predicted preferences.**
+(e.g. online shop recommendations, Facebook stream)
+
 **Input-heavy expert systems.**
 (e.g. crime predictions for individual inmates)
 
-**Choice options prioritized by personal recommendations.**
-(e.g. online shop recommendations)
+**Mediated through human analyst.**
+(e.g. presentation by analyst who directly used model)
 
-**Standardized reports.***
-(e.g. regular reports generated from latest data, including graphics)
+**Standardized reports.**
+(e.g. reports generated, graphics, APIs - on demand or scheduled)
 
 **Smart daily objects.**
 (e.g. a tooth brush, but smart and responsive)
 
-**Terminal interaction.***
+**Terminal interaction.**
 (e.g. terminal output from a Python script)
 
 **Text notifications.**
-(e.g. emails on events)
+(e.g. emails/messages on events, e.g. predicted rain)
 
 **Voice interfaces.**
 (e.g. Alexa)
@@ -75,6 +78,9 @@ For each type, the questions above are addressed.
 ...
 
 ## Conclusion
+...
+
+## References
 ...
 
 ### Acknowledgements
