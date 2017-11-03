@@ -50,19 +50,19 @@ For each type, the questions above are addressed.
 **Dashboards.**
 (e.g. 'Shiny App' with R)
 
-**Input-heavy Interfaces.***
+**Input-heavy Expert Systems.**
 (e.g. crime predictions for individual inmates)
 
 **Lists prioritized by recommendations.**
 (e.g. online shop recommendations)
 
-**Plots and standardized reports.***
+**Graphics and Standardized Reports.***
 (e.g. weekly trend graphics and reports generated from latest data)
 
-**Smart daily objects.**
+**Smart Daily Objects.**
 (e.g. a tooth brush, but smart and responsive)
 
-**Text notifications.**
+**Text Notifications.**
 (e.g. emails on events)
 
 **Voice Interfaces.**
