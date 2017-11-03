@@ -50,22 +50,25 @@ For each type, the questions above are addressed.
 **Dashboards.**
 (e.g. 'Shiny App' with R)
 
-**Input-heavy Expert Systems.**
+**Input-heavy expert systems.**
 (e.g. crime predictions for individual inmates)
 
-**Lists prioritized by recommendations.**
+**Choice options prioritized by personal recommendations.**
 (e.g. online shop recommendations)
 
-**Graphics and Standardized Reports.***
-(e.g. weekly trend graphics and reports generated from latest data)
+**Standardized reports.***
+(e.g. regular reports generated from latest data, including graphics)
 
-**Smart Daily Objects.**
+**Smart daily objects.**
 (e.g. a tooth brush, but smart and responsive)
 
-**Text Notifications.**
+**Terminal interaction.***
+(e.g. terminal output from a Python script)
+
+**Text notifications.**
 (e.g. emails on events)
 
-**Voice Interfaces.**
+**Voice interfaces.**
 (e.g. Alexa)
 
 ## Model interaction typology
