@@ -47,6 +47,12 @@ For each type, the questions above are addressed.
 **Content filtered by predicted preferences.**
 (e.g. online shop recommendations, Facebook stream)
 
+**Control interfaces.**     --- other description?
+(e.g. Google Nest)
+
+**Conversation with human analyst.**
+(e.g. presentation by analyst who directly used model)
+
 **Dashboards.**
 (e.g. 'Shiny App' with R)
 
@@ -55,9 +61,6 @@ For each type, the questions above are addressed.
 
 **Interactive Chatbots.**
 (e.g. chatbots for customer support)
-
-**Mediated through human analyst.**
-(e.g. presentation by analyst who directly used model)
 
 **Standardized reports.**
 (e.g. reports generated, graphics, APIs - on demand or scheduled)
