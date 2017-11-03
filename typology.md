@@ -44,17 +44,17 @@ Comparing existing interfaces is structured by the following design properties:
 In the following, types of model interfaces are presented.
 For each type, the questions above are addressed.
 
-**Interactive Chatbots.**
-(e.g. chatbots for customer support)
+**Content filtered by predicted preferences.**
+(e.g. online shop recommendations, Facebook stream)
 
 **Dashboards.**
 (e.g. 'Shiny App' with R)
 
-**Content filtered by predicted preferences.**
-(e.g. online shop recommendations, Facebook stream)
-
 **Input-heavy expert systems.**
 (e.g. crime predictions for individual inmates)
+
+**Interactive Chatbots.**
+(e.g. chatbots for customer support)
 
 **Mediated through human analyst.**
 (e.g. presentation by analyst who directly used model)
