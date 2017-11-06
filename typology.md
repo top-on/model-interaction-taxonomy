@@ -30,14 +30,14 @@ Given these properties, interfaces to predictive models are then reviewed.
 Finally, this review is summarized in a *typology of model interfaces*.
 
 ## Criteria of interface comparison
-Comparing existing interfaces is structured by the following design properties:
+Comparing existing interfaces is structured by the following binary design properties:
 
-1. What are working examples?
-2. Generates data for improvement?
-3. Actively addressing user?
+1. Do working examples exist?
+2. Is data for improvement generated?
+3. Is user addressed?
 4. Required skillful user?
 5. Detailed insight?
-6. Simplest IT-infrastructure?
+6. Does deployment require webserver?
 
 ## Review of interfaces with predictive models
 
@@ -85,6 +85,8 @@ For each type, the questions above are addressed.
 
 ## Model interaction typology
 ...
+
+Idea: show t-sne plot on binary vectors that represent criterions
 
 Potential source: [Fiebrink 2011][fiebrink2011real]
 
