@@ -44,6 +44,9 @@ Comparing existing interfaces is structured by the following design properties:
 In the following, types of model interfaces are presented.
 For each type, the questions above are addressed.
 
+**Command Line Interface (CLI).**
+(e.g. terminal output from a Python script)
+
 **Content filtered by predicted preferences.**
 (e.g. online shop recommendations, Facebook stream)
 
@@ -68,14 +71,17 @@ For each type, the questions above are addressed.
 **Smart daily objects.**
 (e.g. a tooth brush, but smart and responsive)
 
-**Terminal interaction.**
-(e.g. terminal output from a Python script)
+**Spreadsheets.**
+(e.g. Excel)
 
 **Text notifications.**
 (e.g. emails/messages on events, e.g. predicted rain)
 
+**Virtual/augmented reality.**
+(e.g. virtually flying through your data warehouse)
+
 **Voice interfaces.**
-(e.g. Alexa)
+(e.g. Cortana)
 
 ## Model interaction typology
 ...
