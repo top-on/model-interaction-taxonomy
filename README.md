@@ -1,4 +1,4 @@
-# model-interaction-typology
+# model-interaction-taxonomy
 
 A typology of ways you can interact with predictive models.
 Please see the file **typology.md**.
