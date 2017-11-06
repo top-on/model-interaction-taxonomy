@@ -4,21 +4,22 @@
 Thorben Jensen
 
 ## Introduction to model interfaces
-Predictive models is becoming increasingly useful and important.
-These models and algorithms are becoming increasingly capable.
-Also, their currently increasing acceptance and use make them more important.
+Predictive models are becoming increasingly useful and important.
+This is because they have recently become increasingly capable.
+Also, their surging acceptance and use make them more important.
 
-A key property of predictive models is the way humans can interact with them.
-This interaction is a key property to make them useful for us humans.
+A crucial property of predictive models is the way humans can interact with them.
+Good interaction is key to making them useful for us humans.
 A negative example would be interaction that creates unnecessary overhead,
 which overall might render interacting with a model worse than not using it.
 In contrast, we want to interact with models in *just the right* way.
 
-In different contexts, different ways of *model interfaces* are better.
+It turns out that in different contexts, different ways of *model interfaces* are better.
 Assume the usage of weather prediction models.
-You might either want a dashboard with all weather parameters for today,
-or you might only want my door knob to remind me of bringing an umbrella.
-Given this range of options, it is important to know which ones are available.
+You might either want a dashboard with all weather parameters for today.
+Or you might only want my door knob to remind me of bringing an umbrella.
+Given this range of design options, it is important to know which ones are available.
+Hence this work.
 
 ## Purpose: taxonomy of model interfaces
 We would like to assist at choosing the right interfaces to predictive models.
@@ -30,7 +31,7 @@ Given these properties, interfaces to predictive models are then reviewed.
 Finally, this review is summarized in a *taxonomy of model interfaces*.
 
 ## Criteria of interface comparison
-Comparing existing interfaces is structured by the following binary design properties:
+Comparing existing interfaces is guided by the following binary design properties:
 
 1. Is data for improvement generated?
 2. is user addressed actively?
@@ -67,6 +68,7 @@ For each type, the questions above are addressed.
 
 **Standardized reports.**
 (e.g. reports generated, graphics, APIs - on demand or scheduled)
+...
 
 **Smart daily objects.**
 (e.g. a tooth brush, but smart and responsive)
