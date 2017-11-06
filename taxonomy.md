@@ -45,8 +45,8 @@ Comparing existing interfaces is guided by the following binary design propertie
 In the following, types of model interfaces are presented.
 For each type, the questions above are addressed.
 
-**Brain-computer interfact**
-(see [Nature][http://www.nature.com/nature/focus/brain/index.html])
+**Brain-computer interface**
+(see [Nature](http://www.nature.com/nature/focus/brain/index.html))
 
 **Chatbots.**
 (e.g. chatbots for customer support)
