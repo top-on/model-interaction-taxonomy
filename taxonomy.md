@@ -46,7 +46,7 @@ In the following, types of model interfaces are presented.
 For each type, the questions above are addressed.
 
 **Brain-computer interface**
-(see [Nature](http://www.nature.com/nature/focus/brain/index.html))
+(e.g. Elon Musk's company Neuralink)
 
 **Chatbots.**
 (e.g. chatbots for customer support)
