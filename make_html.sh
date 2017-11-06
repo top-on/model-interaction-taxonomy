@@ -1,4 +1,4 @@
 #!/bin/bash
 
-markdown_py typology.md > typology.html
+markdown_py taxonomy.md > taxonomy.html
 

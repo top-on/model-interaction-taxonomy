@@ -72,6 +72,9 @@ For each type, the questions above are addressed.
 **Input-heavy expert systems.**
 (e.g. crime predictions for individual inmates)
 
+**Haptic interaction.***
+(any example?)
+
 **Standardized reports.**
 (e.g. generated PDF, graphics, API responses - both on demand or scheduled)
 
@@ -90,6 +93,8 @@ For each type, the questions above are addressed.
 **Voice interfaces.**
 (e.g. Cortana)
 
+<!-- TODO. read up on technology for soldiers -->
+
 ## Model interaction taxonomy
 ...
 
@@ -98,7 +103,7 @@ Ideas:
 * show t-sne plot on binary vectors that represent criterions
 * grouping by hierarchical clustering
 
-Potential sources: 
+Potential sources:
 
 * [Fiebrink 2011][fiebrink2011real]
 * http://grouplab.cpsc.ucalgary.ca/saul/hci_topics/taxonomy.html
@@ -109,8 +114,7 @@ Potential sources:
 ...
 
 ### Acknowledgements
-...
+Thanks for feedback to Chris Davis.
 
 <!-- References -->
 [fiebrink2011real]: http://edithlaw.ca/cs889/2015/reading/IML/2013AIMagIML.pdf
-
