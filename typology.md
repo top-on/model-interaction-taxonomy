@@ -1,4 +1,4 @@
-# A typology of user interfaces with predictive models
+# A taxonomy of user interfaces with predictive models
 
 ### Author
 Thorben Jensen
@@ -20,14 +20,14 @@ You might either want a dashboard with all weather parameters for today,
 or you might only want my door knob to remind me of bringing an umbrella.
 Given this range of options, it is important to know which ones are available.
 
-## Purpose: typology of model interfaces
+## Purpose: taxonomy of model interfaces
 We would like to assist at choosing the right interfaces to predictive models.
 Also, this review shall assist designing new model interfaces.
 
 This work works towards this in two steps:
 Initially, design properties of model interfaces are presented.
 Given these properties, interfaces to predictive models are then reviewed.
-Finally, this review is summarized in a *typology of model interfaces*.
+Finally, this review is summarized in a *taxonomy of model interfaces*.
 
 ## Criteria of interface comparison
 Comparing existing interfaces is structured by the following binary design properties:
@@ -83,10 +83,13 @@ For each type, the questions above are addressed.
 **Voice interfaces.**
 (e.g. Cortana)
 
-## Model interaction typology
+## Model interaction taxonomy
 ...
 
-Idea: show t-sne plot on binary vectors that represent criterions
+Ideas:
+
+* show t-sne plot on binary vectors that represent criterions
+* grouping by hierarchical clustering
 
 Potential source: [Fiebrink 2011][fiebrink2011real]
 
