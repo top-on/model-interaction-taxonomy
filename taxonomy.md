@@ -14,7 +14,7 @@ A negative example would be interaction that creates unnecessary overhead,
 which overall might render interacting with a model worse than not using it.
 In contrast, we want to interact with models in *just the right* way.
 
-It turns out that in different contexts, different ways of *model interfaces* are better.
+It turns out that in different contexts, different *model interfaces* are better.
 Assume the usage of weather prediction models.
 You might either want a dashboard with all weather parameters for today.
 Or you might only want my door knob to remind me of bringing an umbrella.
