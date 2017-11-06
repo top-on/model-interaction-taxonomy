@@ -45,6 +45,12 @@ Comparing existing interfaces is guided by the following binary design propertie
 In the following, types of model interfaces are presented.
 For each type, the questions above are addressed.
 
+**Brain-computer interfact**
+(see [Nature][http://www.nature.com/nature/focus/brain/index.html])
+
+**Chatbots.**
+(e.g. chatbots for customer support)
+
 **Command Line Interface (CLI).**
 (e.g. terminal output from a Python script)
 
@@ -63,12 +69,8 @@ For each type, the questions above are addressed.
 **Input-heavy expert systems.**
 (e.g. crime predictions for individual inmates)
 
-**Interactive Chatbots.**
-(e.g. chatbots for customer support)
-
 **Standardized reports.**
-(e.g. reports generated, graphics, APIs - on demand or scheduled)
-...
+(e.g. generated PDF, graphics, API responses - both on demand or scheduled)
 
 **Smart daily objects.**
 (e.g. a tooth brush, but smart and responsive)
