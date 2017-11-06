@@ -86,11 +86,14 @@ For each type, the questions above are addressed.
 ## Model interaction typology
 ...
 
-## Conclusion
-...
+Potential source: [Fiebrink 2011][fiebrink2011real]
 
-## References
+## Conclusion
 ...
 
 ### Acknowledgements
 ...
+
+<!-- References -->
+[fiebrink2011real]: http://edithlaw.ca/cs889/2015/reading/IML/2013AIMagIML.pdf
+
