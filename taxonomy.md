@@ -95,7 +95,12 @@ Ideas:
 * show t-sne plot on binary vectors that represent criterions
 * grouping by hierarchical clustering
 
-Potential source: [Fiebrink 2011][fiebrink2011real]
+Potential sources: 
+
+* [Fiebrink 2011][fiebrink2011real]
+* http://grouplab.cpsc.ucalgary.ca/saul/hci_topics/taxonomy.html
+* https://eprints.soton.ac.uk/261149/1/GestureTaxonomyJuly21.pdf
+* [A Brief History of Human Computer Interaction Technology](https://s3.amazonaws.com/academia.edu.documents/30932899/myers-history-hci-tech.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1509979386&Signature=Sbr2EzbKfcylDdxNU9EW7WFJ1hs%3D&response-content-disposition=inline%3B%20filename%3DA_brief_history_of_human-computer_intera.pdf)
 
 ## Conclusion
 ...
