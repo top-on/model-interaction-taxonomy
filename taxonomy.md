@@ -16,8 +16,8 @@ In contrast, we want to interact with models in *just the right* way.
 
 It turns out that in different contexts, different *model interfaces* are better.
 Assume the usage of weather prediction models.
-You might either want a dashboard with all weather parameters for today.
-Or you might only want my door knob to remind me of bringing an umbrella.
+You might either prefer a dashboard with detailed weather parameters for today.
+Or you might only want your door knob to remind you of bringing an umbrella.
 Given this range of design options, it is important to know which ones are available.
 Hence this work.
 
