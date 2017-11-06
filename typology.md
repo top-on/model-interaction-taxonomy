@@ -32,12 +32,12 @@ Finally, this review is summarized in a *typology of model interfaces*.
 ## Criteria of interface comparison
 Comparing existing interfaces is structured by the following binary design properties:
 
-1. Do working examples exist?
-2. Is data for improvement generated?
-3. Is user addressed?
-4. Required skillful user?
-5. Detailed insight?
-6. Does deployment require webserver?
+1. Is data for improvement generated?
+2. is user addressed actively?
+3. Required skillful user?
+4. Detailed insights?
+5. Does deployment require webserver?
+6. Do working examples exist?
 
 ## Review of interfaces with predictive models
 
