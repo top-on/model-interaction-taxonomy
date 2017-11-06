@@ -21,6 +21,8 @@ Or you might only want your door knob to remind you of bringing an umbrella.
 Given this range of design options, it is important to know which ones are available.
 Hence this work.
 
+<!-- Quote by Dix et al (1992): "Human computer interaction can be defined as the discipline concerned with the design, evaluation, and implementation of interactive computing sstems for humand use ..." -->
+
 ## Purpose: taxonomy of model interfaces
 We would like to assist at choosing the right interfaces to predictive models.
 Also, this review shall assist designing new model interfaces.
@@ -34,11 +36,12 @@ Finally, this review is summarized in a *taxonomy of model interfaces*.
 Comparing existing interfaces is guided by the following binary design properties:
 
 1. Is data for improvement generated?
-2. is user addressed actively?
+2. Is user addressed actively and timely?
 3. Required skillful user?
 4. Detailed insights?
 5. Does deployment require webserver?
-6. Do working examples exist?
+6. Is human-human cooperation facilitated?
+7. Do working examples exist?
 
 ## Review of interfaces with predictive models
 
@@ -82,7 +85,7 @@ For each type, the questions above are addressed.
 (e.g. emails/messages on events, e.g. predicted rain)
 
 **Virtual/augmented reality.**
-(e.g. virtually flying through your data warehouse)
+(e.g. virtually flying through your data warehouse, including recognition of gestures)
 
 **Voice interfaces.**
 (e.g. Cortana)
