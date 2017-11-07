@@ -69,6 +69,9 @@ For each type, the questions above are addressed.
 **Dashboards.**
 (e.g. 'Shiny App' with R)
 
+**Games.***
+(what would be an example?)
+
 **Input-heavy expert systems.**
 (e.g. crime predictions for individual inmates)
 
@@ -88,7 +91,7 @@ For each type, the questions above are addressed.
 (e.g. emails/messages on events, e.g. predicted rain)
 
 **Virtual/augmented reality.**
-(e.g. virtually flying through your data warehouse, including recognition of gestures)
+(e.g. virtually flying through your 3D data warehouse, including recognition of gestures)
 
 **Voice interfaces.**
 (e.g. Cortana)
